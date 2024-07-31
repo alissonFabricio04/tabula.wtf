@@ -13,7 +13,7 @@ document.onkeydown = ({ key }) => {
         style="display: none;"
         width="560" 
         height="315" 
-        src="https://www.youtube.com/embed/br0qgE6GjjU?autoplay=1" 
+        src="https://www.youtube.com/embed/br0qgE6GjjU?autoplay=1&t=10713" 
         title="YouTube video player" 
         frameborder="0" 
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
