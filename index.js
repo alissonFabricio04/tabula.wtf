@@ -5,8 +5,6 @@ document.keysPressed = ''
 document.onkeydown = ({ key }) => {
   if (key) document.keysPressed += key
 
-  console.log(document.keysPressed)
-
   if (document.keysPressed === EASTER_EGG_PHRASE) {
     const iframe = `
       <iframe
